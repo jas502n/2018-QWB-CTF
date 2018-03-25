@@ -1,7 +1,3 @@
-# 2018-QWB-CTF
-2018强网杯CTF___题目整理
-
-```
 ./01Misc-4题/题目名称：ai-nimals/题目名称：ai-nimals.mhtml
 ./01Misc-4题/题目名称：welcome/题目名称：welcome.mhtml
 ./01Misc-4题/题目名称：签到/题目名称：签到.mhtml
@@ -39,7 +35,3 @@
 ./05PWN-12题/题目名称：solid core/题目名称：solid core.mhtml
 ./05PWN-12题/题目名称：xx_fw_pwn/题目名称：xx_fw_pwn.mhtml
 ./05PWN-12题/题目名称：xx_game/题目名称：xx_game.mhtml
-
-
-```
-### Enjoy !!!
