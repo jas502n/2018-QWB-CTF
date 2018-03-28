@@ -4,7 +4,7 @@ http://39.107.33.96:10000
 
 
 
-### The Fisrt Easy Md5 Challenge
+### 0x01 The Fisrt Easy Md5 Challenge
 
 ```
 <!--
@@ -45,7 +45,7 @@ success!<script>alert('success!');location.href='/';</script>* Connection #0 to 
 ```
 
 
-### The Second Easy Md5 Challenge
+### 0x02 The Second Easy Md5 Challenge
 
 ```
 <!--
@@ -86,7 +86,7 @@ success!<script>alert('success!');location.href='/';</script>* Connection #0 to 
 
 ```
 
-### Md5 Revenge Now!
+### 0x03 Md5 Revenge Now!
 
 ```
 <!--
@@ -126,6 +126,9 @@ success! flag is QWB{s1gns1gns1gnaftermd5}* Connection #0 to host 39.107.33.96 l
 
 
 ```
+### 0x04 QWB{s1gns1gns1gnaftermd5}
+
+### 0x05 内容转换成url编码
 
 ```
 #encoding=utf-8
@@ -145,6 +148,7 @@ print 'param1=%s'% s1 +'&'+'param2=%s'% s2
 >>>param1=M%C9h%FF%0E%E3%5C%20%95r%D4w%7Br%15%87%D3o%A7%B2%1B%DCV%B7J%3D%C0x%3E%7B%95%18%AF%BF%A2%00%A8%28K%F3n%8EKU%B3_Bu%93%D8Igm%A0%D1U%5D%83%60%FB_%07%FE%A2&param2=M%C9h%FF%0E%E3%5C%20%95r%D4w%7Br%15%87%D3o%A7%B2%1B%DCV%B7J%3D%C0x%3E%7B%95%18%AF%BF%A2%02%A8%28K%F3n%8EKU%B3_Bu%93%D8Igm%A0%D1%D5%5D%83%60%FB_%07%FE%A2
 
 ```
+### 0x06 md5碰撞hash值
 
 ```
 > md5sum *
@@ -153,3 +157,7 @@ print 'param1=%s'% s1 +'&'+'param2=%s'% s2
 fd4196ccf9148a2bf055def3c25efb00 *text2urlencode.py
 
 ```
+
+### 0x07 参考网站
+
+https://www.mscs.dal.ca/~selinger/md5collision/
