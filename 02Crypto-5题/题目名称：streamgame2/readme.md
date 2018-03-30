@@ -1,4 +1,4 @@
-### Writeup
+### streamgame2  Writeup
 
 ### 和streamgame1 类似
 py文件稍微改一下
